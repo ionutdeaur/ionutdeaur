@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ionutdeaur
 - 👀 I’m interested in ...html css and javascript
-- 🌱 I’m currently learning ...evrything
+- 🌱 I’m currently learning ...everything
 - 💞️ I’m looking to collaborate on ...i don't know
 - 📫 How to reach me ...here 
 
